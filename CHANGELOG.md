@@ -1,5 +1,5 @@
 ## 20200418
-* 集成 luci-app-r2sflasher
+* 集成 luci-app-r2sflasher 
 
 ## 20200417
 * 重新整理 yml
